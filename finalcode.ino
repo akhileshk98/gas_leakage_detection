@@ -4,7 +4,7 @@ SoftwareSerial mySerial(9, 10);
 int led_pin=13; 
 int buz_pin=11; 
 int analog_pin=A0; 
-int smscount=0; 
+int smscount=0; //new comment
 int sms_led=12; 
 int button=7; 
  
