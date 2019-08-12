@@ -8,4 +8,4 @@ A simple device that can alert the user when it detects LPG, Carbon Monoxide and
 3. GSM Module
 
 
-![alt text](https://raw.githubusercontent.com/Darknemesis98/gas_leakage_detection/blob/master/GL%20project.png)
+![alt text](https://github.com/Darknemesis98/gas_leakage_detection/blob/master/GL%20project.png)
